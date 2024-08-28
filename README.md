@@ -39,5 +39,5 @@ Para configurar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SEU_NOME_DE_USUARIO/Sistema-Monitoramento-IoT.git
+   git clone https://github.com/aleaegir/aleaegir-Aplicacao-de-Cloud-Iot-e-Industria-40-em-Python.git
    cd Sistema-Monitoramento-IoT
